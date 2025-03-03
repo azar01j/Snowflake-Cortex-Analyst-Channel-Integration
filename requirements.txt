@@ -1,0 +1,7 @@
+botbuilder-integration-aiohttp>=4.14.0
+pandas
+dotenv
+requests
+tabulate
+azure-identity
+azure-keyvault
