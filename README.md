@@ -12,3 +12,6 @@ Azure Bot Framework: A platform for building intelligent chatbots that can be in
 Microsoft Entra ID: Provides secure authentication, ensuring that only authorized users can access the data and interact with the bot.
 Slack & Microsoft Teams: Messaging platforms that serve as the user interfaces for interacting with the bot and querying Snowflake data via natural language.
 TEXT-to-SQL: Converts natural language input into SQL queries that interact directly with Snowflake data.
+
+
+![image](https://github.com/user-attachments/assets/81a5fba9-0eef-4980-b212-c3714f1f1247)
